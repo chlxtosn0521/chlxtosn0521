@@ -1,8 +1,8 @@
-#Hi there 👋
-##I'm choi tae soon
-###I was born in 2007
+#안녕하세요 👋
+##저는 한신대 최태순입니다
+###감사합니다
 
-
+😍
 <!--
 **chlxtosn0521/chlxtosn0521** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
